@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: ea1765033dfe1f04997d626709099fc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8134629158787539941
+    second: S_square_A
+  - first:
+      213: 589107415394339834
+    second: S_square_B
+  - first:
+      213: -4944638295364352852
+    second: S_sablier
+  - first:
+      213: -4488098409731186916
+    second: S_circle_A
+  - first:
+      213: -517964535043267994
+    second: S_shine_01
+  - first:
+      213: -7597179803965903209
+    second: S_shine_02
+  - first:
+      213: -5197200939470063562
+    second: S_shine_03
+  - first:
+      213: 6722152687230578501
+    second: S_shine_04
+  - first:
+      213: -8133546879935561071
+    second: S_shine_05
+  - first:
+      213: 4980624103167767372
+    second: S_shine_06
+  - first:
+      213: 8101664914274735165
+    second: S_aiguille
+  - first:
+      213: 8274697279806680913
+    second: S_traveller_01
+  - first:
+      213: 3318400042073516965
+    second: S_traveller_sablier_01
+  - first:
+      213: 5244132625168860389
+    second: S_arrow
+  - first:
+      213: -5845417453960522181
+    second: S_soundOff
+  - first:
+      213: 8101664914274735165
+    second: S_music_off
+  - first:
+      213: -793396005224273932
+    second: S_soundOn
+  - first:
+      213: -3219695294381993118
+    second: S_musicOn
+  - first:
+      213: 69728447978019115
+    second: S_traveller_02
+  - first:
+      213: -3787527920875029712
+    second: S_traveller_03
+  - first:
+      213: 8564230722549784804
+    second: S_traveller_04
+  - first:
+      213: -1201400422094478623
+    second: S_traveller_05
+  - first:
+      213: -6758223337296485599
+    second: S_traveller_sablier_02
+  - first:
+      213: -7708567203091937973
+    second: S_traveller_sablier_03
+  - first:
+      213: -7867084076965127230
+    second: S_traveller_sablier_04
+  - first:
+      213: 950544204883941718
+    second: S_traveller_sablier_05
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S_square_A
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 438
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 13, z: 11, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1fe211edfb1f80800000000000000
+      internalID: -8134629158787539941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_square_B
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 438
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc025b21eec2800800000000000000
+      internalID: 589107415394339834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sablier
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 438
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c30e0bad116bb0800000000000000
+      internalID: -4944638295364352852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_circle_A
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 409
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1afa764217b1c0800000000000000
+      internalID: -4488098409731186916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_shine_01
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 447
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ee7aeff1dfc8f0800000000000000
+      internalID: -517964535043267994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_shine_02
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 447
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e27d94835619690800000000000000
+      internalID: -7597179803965903209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_shine_03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 447
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6387f801845dfd7b0800000000000000
+      internalID: -5197200939470063562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_shine_04
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 381
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fe058e042e94d50800000000000000
+      internalID: 6722152687230578501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_shine_05
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 381
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924471c436df1f80800000000000000
+      internalID: -8133546879935561071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_shine_06
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 381
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43301dbb3bbe1540800000000000000
+      internalID: 4980624103167767372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_01
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 253
+        width: 90
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fa4c2b551a5d270800000000000000
+      internalID: 8274697279806680913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_sablier_01
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 359
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abee62b1435d0e20800000000000000
+      internalID: 3318400042073516965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_arrow
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 282
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40a3686d6e6c840800000000000000
+      internalID: 5244132625168860389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_soundOff
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3690d4cbc7e0eea0800000000000000
+      internalID: -5845417453960522181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_music_off
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345798a055ee6070800000000000000
+      internalID: 8101664914274735165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_soundOn
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a46e698a4df4f0800000000000000
+      internalID: -793396005224273932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_musicOn
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 8
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2635d5d30385153d0800000000000000
+      internalID: -3219695294381993118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_02
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 130
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29187c67a9b7f000800000000000000
+      internalID: 69728447978019115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_03
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 100
+        width: 150
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bbe535c6fff6bc0800000000000000
+      internalID: -3787527920875029712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_04
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 203
+        width: 126
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0211887724ad670800000000000000
+      internalID: 8564230722549784804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_05
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 49
+        width: 124
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2ed007ea4c35fe0800000000000000
+      internalID: -1201400422094478623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_sablier_02
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 355
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12320bb6ea7f532a0800000000000000
+      internalID: -6758223337296485599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_sablier_03
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 357
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b458a7478faa50590800000000000000
+      internalID: -7708567203091937973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_sablier_04
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 357
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb9c5ea6b082d290800000000000000
+      internalID: -7867084076965127230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_traveller_sablier_05
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 135
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d96b0be2013d00800000000000000
+      internalID: 950544204883941718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65a501d54e738fd4db24cad63ac7a0e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
